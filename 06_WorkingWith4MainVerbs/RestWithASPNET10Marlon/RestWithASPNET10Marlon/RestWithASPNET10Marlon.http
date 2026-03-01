@@ -1,0 +1,6 @@
+@RestWithASPNET10Marlon_HostAddress = http://localhost:5180
+
+GET {{RestWithASPNET10Marlon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
